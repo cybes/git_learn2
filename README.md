@@ -1,4 +1,4 @@
-# Welcome to Valaxy Git Demo
+# Welcome to  Git Demo
 
 ## List of things needed to create a repository
  - LICENSE
